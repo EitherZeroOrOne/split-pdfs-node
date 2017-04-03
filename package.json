@@ -1,0 +1,19 @@
+{
+  "name": "split-pdfs-node",
+  "version": "1.0.0",
+  "description": "We want to create a mini script to read from a directory and for each file in that directory, run the cpdf split command and output those files to their own directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EitherZeroOrOne/split-pdfs-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EitherZeroOrOne/split-pdfs-node/issues"
+  },
+  "homepage": "https://github.com/EitherZeroOrOne/split-pdfs-node#readme"
+}
